@@ -1,7 +1,7 @@
 // Garden Gnome Software - Skin
 // Pano2VR 7.1.9/20995
 // Filename: SSDFSD.ggsk
-// Generated 2025-07-19T02:47:11
+// Generated 2025-07-19T03:10:37
 
 function pano2vrSkin(player,base) {
 	player.addVariable('MegaRestaurante', 0, "", { ignoreInState: 0 , customProperty: { variableType: 0, propertyType: 0, defaultValue: "" } });

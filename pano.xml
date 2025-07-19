@@ -1,0 +1,560 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<tour apprev="20995" appversion="7.1.9" start="node23" hassounds="0">
+  <panorama id="node23">
+    <input width="2000" height="2000" leveltilesize="510" levelbias="0.400" levelingpitch="0" leveltileurl="tiles/node23/cf_%c/l_%l/c_%x/tile_%y.jpg" overlap="1" levelingroll="0" levelbiashidpi="1.000">
+      <level width="2000" height="2000" preload="0" predecode="0"/>
+      <level width="1000" height="1000" preload="0" predecode="0"/>
+      <level width="500" height="500" preload="1" predecode="1"/>
+      <preview color="0x808080" strip="1"/>
+    </input>
+    <view fovmode="2" pannorth="-290.826">
+      <start fov="100" projection="4" pan="-179.532" tilt="-5.47201"/>
+      <flyin fov="170" projection="9" pan="0" tilt="-90"/>
+      <min pan="0" tilt="-90" fovpixel="2"/>
+      <max fov="140" pan="360" fovstereographic="330" tilt="90" fovfisheye="360" scaletofit="1"/>
+    </view>
+    <userdata nodeid="node23" info="Mega Restaurante" customnodeid="" title="Mega Restaurante" source="Mega Restaurante" description="Mega Restaurante" copyright="Mega Restaurante" latitude="-26.98897093" heading="-290.826" tags="OFIII" author="Mega Restaurante" longitude="-48.63376232" datetime="18/05/2025 14:13" comment="Mega Restaurante">
+      <custompropertyvalue value="" variablename="MegaRestaurante"/>
+    </userdata>
+    <hotspots width="180" height="20" wordwrap="1" smoothmovement="0">
+      <label bordercolor="0x000000" width="180" height="20" border="1" borderalpha="1" borderradius="1" textalpha="1" backgroundalpha="1" enabled="1" backgroundcolor="0xffffff" wordwrap="1" textcolor="0x000000" background="1"/>
+      <polystyle bordercolor="0x0000ff" backgroundalpha="0.25098" backgroundcolor="0x0000ff" borderalpha="1" mode="0" handcursor="1"/>
+      <hotspot pan="-179.179" url="{node21}" tilt="0" title="Mega Restaurante" description="" id="Point01" distance="2.92093" target="$fwd" skinid="ht_node"/>
+    </hotspots>
+    <media/>
+    <transition delay="none" zoomout="0" blendtime="1" type="mesh" zoomspeed="2" zoomoutpause="1" zoomin="7" softedge="0" enabled="1" zoomafteroutfov="40" blendcolor="0x000000" zoomafterinfov="140" zoomfov="40"/>
+    <animation syncanimationwithvideo="0" animsequence="Animation01" clipsrandom="0" useinautorotation="0"/>
+    <control sensitivity="8" speedwheel="1" simulatemass="1" contextprojections="0" hideabout="0" contextvr="1" lockedkeyboard="0" lockedkeyboardzoom="0" dblclickfullscreen="0" zoomcentercursor="1" contextfullscreen="1" rubberband="0" invertwheel="0" invertcontrol="1" lockedwheel="0" lockedmouse="0"/>
+  </panorama>
+  <panorama id="node21">
+    <input width="2000" height="2000" leveltilesize="510" levelbias="0.400" levelingpitch="0" leveltileurl="tiles/node21/cf_%c/l_%l/c_%x/tile_%y.jpg" overlap="1" levelingroll="0" levelbiashidpi="1.000">
+      <level width="2000" height="2000" preload="0" predecode="0"/>
+      <level width="1000" height="1000" preload="0" predecode="0"/>
+      <level width="500" height="500" preload="1" predecode="1"/>
+      <preview color="0x808080" strip="1"/>
+    </input>
+    <view fovmode="2" pannorth="-641.661">
+      <start fov="100" projection="4" pan="0" tilt="0"/>
+      <flyin fov="170" projection="9" pan="0" tilt="-90"/>
+      <min pan="0" tilt="-90" fovpixel="2"/>
+      <max fov="140" pan="360" fovstereographic="330" tilt="90" fovfisheye="360" scaletofit="1"/>
+    </view>
+    <userdata nodeid="node21" info="Mega Restaurante" customnodeid="" title="Mega Restaurante" source="Mega Restaurante" description="Mega Restaurante" copyright="Mega Restaurante" latitude="-26.98898062" heading="-641.661" tags="OFIII" author="Mega Restaurante" longitude="-48.63378972" datetime="18/05/2025 14:13" comment="Mega Restaurante">
+      <custompropertyvalue value="" variablename="MegaRestaurante"/>
+    </userdata>
+    <hotspots width="180" height="20" wordwrap="1" smoothmovement="0">
+      <label bordercolor="0x000000" width="180" height="20" border="1" borderalpha="1" borderradius="1" textalpha="1" backgroundalpha="1" enabled="1" backgroundcolor="0xffffff" wordwrap="1" textcolor="0x000000" background="1"/>
+      <polystyle bordercolor="0x0000ff" backgroundalpha="0.25098" backgroundcolor="0x0000ff" borderalpha="1" mode="0" handcursor="1"/>
+      <hotspot pan="-710.014" url="{node23}" tilt="0" title="Mega Restaurante" description="" id="Point01" distance="2.92093" target="$fwd" skinid="ht_node"/>
+      <hotspot pan="-804.674" url="{node22}" tilt="0" title="Mega Restaurante" description="" id="Point02" distance="5.79943" target="$fwd" skinid="ht_node"/>
+      <hotspot pan="-539.075" url="{node40}" tilt="0" title="Mega Restaurante" description="" id="Point03" distance="3.50565" target="$fwd" skinid="ht_node"/>
+    </hotspots>
+    <media/>
+    <transition delay="none" zoomout="0" blendtime="1" type="mesh" zoomspeed="2" zoomoutpause="1" zoomin="7" softedge="0" enabled="1" zoomafteroutfov="40" blendcolor="0x000000" zoomafterinfov="140" zoomfov="40"/>
+    <animation syncanimationwithvideo="0" animsequence="Animation01" clipsrandom="0" useinautorotation="0"/>
+    <control sensitivity="8" speedwheel="1" simulatemass="1" contextprojections="0" hideabout="0" contextvr="1" lockedkeyboard="0" lockedkeyboardzoom="0" dblclickfullscreen="0" zoomcentercursor="1" contextfullscreen="1" rubberband="0" invertwheel="0" invertcontrol="1" lockedwheel="0" lockedmouse="0"/>
+  </panorama>
+  <panorama id="node22">
+    <input width="2000" height="2000" leveltilesize="510" levelbias="0.400" levelingpitch="0" leveltileurl="tiles/node22/cf_%c/l_%l/c_%x/tile_%y.jpg" overlap="1" levelingroll="0" levelbiashidpi="1.000">
+      <level width="2000" height="2000" preload="0" predecode="0"/>
+      <level width="1000" height="1000" preload="0" predecode="0"/>
+      <level width="500" height="500" preload="1" predecode="1"/>
+      <preview color="0x808080" strip="1"/>
+    </input>
+    <view fovmode="2" pannorth="-645.631">
+      <start fov="100" projection="4" pan="0" tilt="0"/>
+      <flyin fov="170" projection="9" pan="0" tilt="-90"/>
+      <min pan="0" tilt="-90" fovpixel="2"/>
+      <max fov="140" pan="360" fovstereographic="330" tilt="90" fovfisheye="360" scaletofit="1"/>
+    </view>
+    <userdata nodeid="node22" info="Mega Restaurante" customnodeid="" title="Mega Restaurante" source="Mega Restaurante" description="Mega Restaurante" copyright="Mega Restaurante" latitude="-26.98903050" heading="-645.631" tags="OFIII" author="Mega Restaurante" longitude="-48.63377262" datetime="18/05/2025 14:13" comment="Mega Restaurante">
+      <custompropertyvalue value="" variablename="MegaRestaurante"/>
+    </userdata>
+    <hotspots width="180" height="20" wordwrap="1" smoothmovement="0">
+      <label bordercolor="0x000000" width="180" height="20" border="1" borderalpha="1" borderradius="1" textalpha="1" backgroundalpha="1" enabled="1" backgroundcolor="0xffffff" wordwrap="1" textcolor="0x000000" background="1"/>
+      <polystyle bordercolor="0x0000ff" backgroundalpha="0.25098" backgroundcolor="0x0000ff" borderalpha="1" mode="0" handcursor="1"/>
+      <hotspot pan="-628.644" url="{node21}" tilt="0" title="Mega Restaurante" description="" id="Point01" distance="5.79943" target="$fwd" skinid="ht_node"/>
+      <hotspot pan="-543.805" url="{node39}" tilt="0" title="Mega Restaurante" description="" id="Point02" distance="4.15059" target="$fwd" skinid="ht_node"/>
+    </hotspots>
+    <media/>
+    <transition delay="none" zoomout="0" blendtime="1" type="mesh" zoomspeed="2" zoomoutpause="1" zoomin="7" softedge="0" enabled="1" zoomafteroutfov="40" blendcolor="0x000000" zoomafterinfov="140" zoomfov="40"/>
+    <animation syncanimationwithvideo="0" animsequence="Animation01" clipsrandom="0" useinautorotation="0"/>
+    <control sensitivity="8" speedwheel="1" simulatemass="1" contextprojections="0" hideabout="0" contextvr="1" lockedkeyboard="0" lockedkeyboardzoom="0" dblclickfullscreen="0" zoomcentercursor="1" contextfullscreen="1" rubberband="0" invertwheel="0" invertcontrol="1" lockedwheel="0" lockedmouse="0"/>
+  </panorama>
+  <panorama id="node40">
+    <input width="2000" height="2000" leveltilesize="510" levelbias="0.400" levelingpitch="0" leveltileurl="tiles/node40/cf_%c/l_%l/c_%x/tile_%y.jpg" overlap="1" levelingroll="0" levelbiashidpi="1.000">
+      <level width="2000" height="2000" preload="0" predecode="0"/>
+      <level width="1000" height="1000" preload="0" predecode="0"/>
+      <level width="500" height="500" preload="1" predecode="1"/>
+      <preview color="0x808080" strip="1"/>
+    </input>
+    <view fovmode="2" pannorth="-104.022">
+      <start fov="100" projection="4" pan="0" tilt="0"/>
+      <flyin fov="170" projection="9" pan="0" tilt="-90"/>
+      <min pan="0" tilt="-90" fovpixel="2"/>
+      <max fov="140" pan="360" fovstereographic="330" tilt="90" fovfisheye="360" scaletofit="1"/>
+    </view>
+    <userdata nodeid="node40" info="Mega Restaurante" customnodeid="" title="Mega Restaurante" source="Mega Restaurante" description="Mega Restaurante" copyright="Mega Restaurante" latitude="-26.98898749" heading="-104.022" tags="OFIII" author="Mega Restaurante" longitude="-48.63382425" datetime="18/05/2025 14:13" comment="Mega Restaurante">
+      <custompropertyvalue value="" variablename="MegaRestaurante"/>
+    </userdata>
+    <hotspots width="180" height="20" wordwrap="1" smoothmovement="0">
+      <label bordercolor="0x000000" width="180" height="20" border="1" borderalpha="1" borderradius="1" textalpha="1" backgroundalpha="1" enabled="1" backgroundcolor="0xffffff" wordwrap="1" textcolor="0x000000" background="1"/>
+      <polystyle bordercolor="0x0000ff" backgroundalpha="0.25098" backgroundcolor="0x0000ff" borderalpha="1" mode="0" handcursor="1"/>
+      <hotspot pan="-181.436" url="{node21}" tilt="0" title="Mega Restaurante" description="" id="Point01" distance="3.50565" target="$fwd" skinid="ht_node"/>
+      <hotspot pan="-11.6752" url="{node24}" tilt="0" title="Mega Restaurante" description="" id="Point02" distance="3.25867" target="$fwd" skinid="ht_node"/>
+      <hotspot pan="-273.431" url="{node39}" tilt="0" title="Mega Restaurante" description="" id="Point03" distance="5.73076" target="$fwd" skinid="ht_node"/>
+    </hotspots>
+    <media/>
+    <transition delay="none" zoomout="0" blendtime="1" type="mesh" zoomspeed="2" zoomoutpause="1" zoomin="7" softedge="0" enabled="1" zoomafteroutfov="40" blendcolor="0x000000" zoomafterinfov="140" zoomfov="40"/>
+    <animation syncanimationwithvideo="0" animsequence="Animation01" clipsrandom="0" useinautorotation="0"/>
+    <control sensitivity="8" speedwheel="1" simulatemass="1" contextprojections="0" hideabout="0" contextvr="1" lockedkeyboard="0" lockedkeyboardzoom="0" dblclickfullscreen="0" zoomcentercursor="1" contextfullscreen="1" rubberband="0" invertwheel="0" invertcontrol="1" lockedwheel="0" lockedmouse="0"/>
+  </panorama>
+  <panorama id="node24">
+    <input width="2000" height="2000" leveltilesize="510" levelbias="0.400" levelingpitch="0" leveltileurl="tiles/node24/cf_%c/l_%l/c_%x/tile_%y.jpg" overlap="1" levelingroll="0" levelbiashidpi="1.000">
+      <level width="2000" height="2000" preload="0" predecode="0"/>
+      <level width="1000" height="1000" preload="0" predecode="0"/>
+      <level width="500" height="500" preload="1" predecode="1"/>
+      <preview color="0x808080" strip="1"/>
+    </input>
+    <view fovmode="2" pannorth="-312.368">
+      <start fov="100" projection="4" pan="0" tilt="0"/>
+      <flyin fov="170" projection="9" pan="0" tilt="-90"/>
+      <min pan="0" tilt="-90" fovpixel="2"/>
+      <max fov="140" pan="360" fovstereographic="330" tilt="90" fovfisheye="360" scaletofit="1"/>
+    </view>
+    <userdata nodeid="node24" info="Mega Restaurante" customnodeid="" title="Mega Restaurante" source="Mega Restaurante" description="Mega Restaurante" copyright="Mega Restaurante" latitude="-26.98898869" heading="-312.368" tags="OFIII" author="Mega Restaurante" longitude="-48.63385711" datetime="18/05/2025 14:13" comment="Mega Restaurante">
+      <custompropertyvalue value="" variablename="MegaRestaurante"/>
+    </userdata>
+    <hotspots width="180" height="20" wordwrap="1" smoothmovement="0">
+      <label bordercolor="0x000000" width="180" height="20" border="1" borderalpha="1" borderradius="1" textalpha="1" backgroundalpha="1" enabled="1" backgroundcolor="0xffffff" wordwrap="1" textcolor="0x000000" background="1"/>
+      <polystyle bordercolor="0x0000ff" backgroundalpha="0.25098" backgroundcolor="0x0000ff" borderalpha="1" mode="0" handcursor="1"/>
+      <hotspot pan="-400.021" url="{node40}" tilt="0" title="Mega Restaurante" description="" id="Point01" distance="3.25867" target="$fwd" skinid="ht_node"/>
+      <hotspot pan="-224.318" url="{node25}" tilt="0" title="Mega Restaurante" description="" id="Point02" distance="3.92208" target="$fwd" skinid="ht_node"/>
+      <hotspot pan="-150.154" url="{node35}" tilt="0" title="Mega Restaurante" description="" id="Point03" distance="4.37911" target="$fwd" skinid="ht_node"/>
+    </hotspots>
+    <media/>
+    <transition delay="none" zoomout="0" blendtime="1" type="mesh" zoomspeed="2" zoomoutpause="1" zoomin="7" softedge="0" enabled="1" zoomafteroutfov="40" blendcolor="0x000000" zoomafterinfov="140" zoomfov="40"/>
+    <animation syncanimationwithvideo="0" animsequence="Animation01" clipsrandom="0" useinautorotation="0"/>
+    <control sensitivity="8" speedwheel="1" simulatemass="1" contextprojections="0" hideabout="0" contextvr="1" lockedkeyboard="0" lockedkeyboardzoom="0" dblclickfullscreen="0" zoomcentercursor="1" contextfullscreen="1" rubberband="0" invertwheel="0" invertcontrol="1" lockedwheel="0" lockedmouse="0"/>
+  </panorama>
+  <panorama id="node25">
+    <input width="2000" height="2000" leveltilesize="510" levelbias="0.400" levelingpitch="0" leveltileurl="tiles/node25/cf_%c/l_%l/c_%x/tile_%y.jpg" overlap="1" levelingroll="0" levelbiashidpi="1.000">
+      <level width="2000" height="2000" preload="0" predecode="0"/>
+      <level width="1000" height="1000" preload="0" predecode="0"/>
+      <level width="500" height="500" preload="1" predecode="1"/>
+      <preview color="0x808080" strip="1"/>
+    </input>
+    <view fovmode="2" pannorth="15.9207">
+      <start fov="100" projection="4" pan="0" tilt="0"/>
+      <flyin fov="170" projection="9" pan="0" tilt="-90"/>
+      <min pan="0" tilt="-90" fovpixel="2"/>
+      <max fov="140" pan="360" fovstereographic="330" tilt="90" fovfisheye="360" scaletofit="1"/>
+    </view>
+    <userdata nodeid="node25" info="Mega Restaurante" customnodeid="" title="Mega Restaurante" source="Mega Restaurante" description="Mega Restaurante" copyright="Mega Restaurante" latitude="-26.98898749" heading="15.9207" tags="OFIII" author="Mega Restaurante" longitude="-48.63389667" datetime="18/05/2025 14:13" comment="Mega Restaurante">
+      <custompropertyvalue value="" variablename="MegaRestaurante"/>
+    </userdata>
+    <hotspots width="180" height="20" wordwrap="1" smoothmovement="0">
+      <label bordercolor="0x000000" width="180" height="20" border="1" borderalpha="1" borderradius="1" textalpha="1" backgroundalpha="1" enabled="1" backgroundcolor="0xffffff" wordwrap="1" textcolor="0x000000" background="1"/>
+      <polystyle bordercolor="0x0000ff" backgroundalpha="0.25098" backgroundcolor="0x0000ff" borderalpha="1" mode="0" handcursor="1"/>
+      <hotspot pan="-76.029" url="{node24}" tilt="0" title="Mega Restaurante" description="" id="Point01" distance="3.92208" target="$fwd" skinid="ht_node"/>
+      <hotspot pan="94.2006" url="{node26}" tilt="0" title="Mega Restaurante" description="" id="Point02" distance="3.59646" target="$fwd" skinid="ht_node"/>
+      <hotspot pan="-157.564" url="{node34}" tilt="0" title="Mega Restaurante" description="" id="Point03" distance="4.89864" target="$fwd" skinid="ht_node"/>
+    </hotspots>
+    <media/>
+    <transition delay="none" zoomout="0" blendtime="1" type="mesh" zoomspeed="2" zoomoutpause="1" zoomin="7" softedge="0" enabled="1" zoomafteroutfov="40" blendcolor="0x000000" zoomafterinfov="140" zoomfov="40"/>
+    <animation syncanimationwithvideo="0" animsequence="Animation01" clipsrandom="0" useinautorotation="0"/>
+    <control sensitivity="8" speedwheel="1" simulatemass="1" contextprojections="0" hideabout="0" contextvr="1" lockedkeyboard="0" lockedkeyboardzoom="0" dblclickfullscreen="0" zoomcentercursor="1" contextfullscreen="1" rubberband="0" invertwheel="0" invertcontrol="1" lockedwheel="0" lockedmouse="0"/>
+  </panorama>
+  <panorama id="node26">
+    <input width="2000" height="2000" leveltilesize="510" levelbias="0.400" levelingpitch="0" leveltileurl="tiles/node26/cf_%c/l_%l/c_%x/tile_%y.jpg" overlap="1" levelingroll="0" levelbiashidpi="1.000">
+      <level width="2000" height="2000" preload="0" predecode="0"/>
+      <level width="1000" height="1000" preload="0" predecode="0"/>
+      <level width="500" height="500" preload="1" predecode="1"/>
+      <preview color="0x808080" strip="1"/>
+    </input>
+    <view fovmode="2" pannorth="16.291">
+      <start fov="100" projection="4" pan="0" tilt="0"/>
+      <flyin fov="170" projection="9" pan="0" tilt="-90"/>
+      <min pan="0" tilt="-90" fovpixel="2"/>
+      <max fov="140" pan="360" fovstereographic="330" tilt="90" fovfisheye="360" scaletofit="1"/>
+    </view>
+    <userdata nodeid="node26" info="Mega Restaurante" customnodeid="" title="Mega Restaurante" source="Mega Restaurante" description="Mega Restaurante" copyright="Mega Restaurante" latitude="-26.98898092" heading="16.291" tags="OFIII" author="Mega Restaurante" longitude="-48.63393221" datetime="18/05/2025 14:13" comment="Mega Restaurante">
+      <custompropertyvalue value="" variablename="MegaRestaurante"/>
+    </userdata>
+    <hotspots width="180" height="20" wordwrap="1" smoothmovement="0">
+      <label bordercolor="0x000000" width="180" height="20" border="1" borderalpha="1" borderradius="1" textalpha="1" backgroundalpha="1" enabled="1" backgroundcolor="0xffffff" wordwrap="1" textcolor="0x000000" background="1"/>
+      <polystyle bordercolor="0x0000ff" backgroundalpha="0.25098" backgroundcolor="0x0000ff" borderalpha="1" mode="0" handcursor="1"/>
+      <hotspot pan="-85.4291" url="{node25}" tilt="0" title="Mega Restaurante" description="" id="Point01" distance="3.59646" target="$fwd" skinid="ht_node"/>
+      <hotspot pan="86.461" url="{node27}" tilt="0" title="Mega Restaurante" description="" id="Point02" distance="3.42536" target="$fwd" skinid="ht_node"/>
+      <hotspot pan="190.646" url="{node32}" tilt="0" title="Mega Restaurante" description="" id="Point03" distance="5.74215" target="$fwd" skinid="ht_node"/>
+    </hotspots>
+    <media/>
+    <transition delay="none" zoomout="0" blendtime="1" type="mesh" zoomspeed="2" zoomoutpause="1" zoomin="7" softedge="0" enabled="1" zoomafteroutfov="40" blendcolor="0x000000" zoomafterinfov="140" zoomfov="40"/>
+    <animation syncanimationwithvideo="0" animsequence="Animation01" clipsrandom="0" useinautorotation="0"/>
+    <control sensitivity="8" speedwheel="1" simulatemass="1" contextprojections="0" hideabout="0" contextvr="1" lockedkeyboard="0" lockedkeyboardzoom="0" dblclickfullscreen="0" zoomcentercursor="1" contextfullscreen="1" rubberband="0" invertwheel="0" invertcontrol="1" lockedwheel="0" lockedmouse="0"/>
+  </panorama>
+  <panorama id="node27">
+    <input width="2000" height="2000" leveltilesize="510" levelbias="0.400" levelingpitch="0" leveltileurl="tiles/node27/cf_%c/l_%l/c_%x/tile_%y.jpg" overlap="1" levelingroll="0" levelbiashidpi="1.000">
+      <level width="2000" height="2000" preload="0" predecode="0"/>
+      <level width="1000" height="1000" preload="0" predecode="0"/>
+      <level width="500" height="500" preload="1" predecode="1"/>
+      <preview color="0x808080" strip="1"/>
+    </input>
+    <view fovmode="2" pannorth="0">
+      <start fov="100" projection="4" pan="0" tilt="0"/>
+      <flyin fov="170" projection="9" pan="0" tilt="-90"/>
+      <min pan="0" tilt="-90" fovpixel="2"/>
+      <max fov="140" pan="360" fovstereographic="330" tilt="90" fovfisheye="360" scaletofit="1"/>
+    </view>
+    <userdata nodeid="node27" info="Mega Restaurante" customnodeid="" title="Mega Restaurante" source="Mega Restaurante" description="Mega Restaurante" copyright="Mega Restaurante" latitude="-26.98897047" heading="0" tags="OFIII" author="Mega Restaurante" longitude="-48.63396473" datetime="18/05/2025 14:13" comment="Mega Restaurante">
+      <custompropertyvalue value="" variablename="MegaRestaurante"/>
+    </userdata>
+    <hotspots width="180" height="20" wordwrap="1" smoothmovement="0">
+      <label bordercolor="0x000000" width="180" height="20" border="1" borderalpha="1" borderradius="1" textalpha="1" backgroundalpha="1" enabled="1" backgroundcolor="0xffffff" wordwrap="1" textcolor="0x000000" background="1"/>
+      <polystyle bordercolor="0x0000ff" backgroundalpha="0.25098" backgroundcolor="0x0000ff" borderalpha="1" mode="0" handcursor="1"/>
+      <hotspot pan="-109.83" url="{node26}" tilt="0" title="Mega Restaurante" description="" id="Point01" distance="3.42536" target="$fwd" skinid="ht_node"/>
+      <hotspot pan="80.443" url="{node28}" tilt="0" title="Mega Restaurante" description="" id="Point02" distance="3.40224" target="$fwd" skinid="ht_node"/>
+      <hotspot pan="-178.907" url="{node31}" tilt="0" title="Mega Restaurante" description="" id="Point03" distance="7.00989" target="$fwd" skinid="ht_node"/>
+    </hotspots>
+    <media/>
+    <transition delay="none" zoomout="0" blendtime="1" type="mesh" zoomspeed="2" zoomoutpause="1" zoomin="7" softedge="0" enabled="1" zoomafteroutfov="40" blendcolor="0x000000" zoomafterinfov="140" zoomfov="40"/>
+    <animation syncanimationwithvideo="0" animsequence="Animation01" clipsrandom="0" useinautorotation="0"/>
+    <control sensitivity="8" speedwheel="1" simulatemass="1" contextprojections="0" hideabout="0" contextvr="1" lockedkeyboard="0" lockedkeyboardzoom="0" dblclickfullscreen="0" zoomcentercursor="1" contextfullscreen="1" rubberband="0" invertwheel="0" invertcontrol="1" lockedwheel="0" lockedmouse="0"/>
+  </panorama>
+  <panorama id="node28">
+    <input width="2000" height="2000" leveltilesize="510" levelbias="0.400" levelingpitch="0" leveltileurl="tiles/node28/cf_%c/l_%l/c_%x/tile_%y.jpg" overlap="1" levelingroll="0" levelbiashidpi="1.000">
+      <level width="2000" height="2000" preload="0" predecode="0"/>
+      <level width="1000" height="1000" preload="0" predecode="0"/>
+      <level width="500" height="500" preload="1" predecode="1"/>
+      <preview color="0x808080" strip="1"/>
+    </input>
+    <view fovmode="2" pannorth="-265.538">
+      <start fov="100" projection="4" pan="0" tilt="0"/>
+      <flyin fov="170" projection="9" pan="0" tilt="-90"/>
+      <min pan="0" tilt="-90" fovpixel="2"/>
+      <max fov="140" pan="360" fovstereographic="330" tilt="90" fovfisheye="360" scaletofit="1"/>
+    </view>
+    <userdata nodeid="node28" info="Mega Restaurante" customnodeid="" title="Mega Restaurante" source="Mega Restaurante" description="Mega Restaurante" copyright="Mega Restaurante" latitude="-26.98896539" heading="-265.538" tags="OFIII" author="Mega Restaurante" longitude="-48.63399859" datetime="18/05/2025 14:13" comment="Mega Restaurante">
+      <custompropertyvalue value="" variablename="MegaRestaurante"/>
+    </userdata>
+    <hotspots width="180" height="20" wordwrap="1" smoothmovement="0">
+      <label bordercolor="0x000000" width="180" height="20" border="1" borderalpha="1" borderradius="1" textalpha="1" backgroundalpha="1" enabled="1" backgroundcolor="0xffffff" wordwrap="1" textcolor="0x000000" background="1"/>
+      <polystyle bordercolor="0x0000ff" backgroundalpha="0.25098" backgroundcolor="0x0000ff" borderalpha="1" mode="0" handcursor="1"/>
+      <hotspot pan="-365.095" url="{node27}" tilt="0" title="Mega Restaurante" description="" id="Point01" distance="3.40224" target="$fwd" skinid="ht_node"/>
+      <hotspot pan="-88.2452" url="{node29}" tilt="0" title="Mega Restaurante" description="" id="Point02" distance="3.52436" target="$fwd" skinid="ht_node"/>
+    </hotspots>
+    <media/>
+    <transition delay="none" zoomout="0" blendtime="1" type="mesh" zoomspeed="2" zoomoutpause="1" zoomin="7" softedge="0" enabled="1" zoomafteroutfov="40" blendcolor="0x000000" zoomafterinfov="140" zoomfov="40"/>
+    <animation syncanimationwithvideo="0" animsequence="Animation01" clipsrandom="0" useinautorotation="0"/>
+    <control sensitivity="8" speedwheel="1" simulatemass="1" contextprojections="0" hideabout="0" contextvr="1" lockedkeyboard="0" lockedkeyboardzoom="0" dblclickfullscreen="0" zoomcentercursor="1" contextfullscreen="1" rubberband="0" invertwheel="0" invertcontrol="1" lockedwheel="0" lockedmouse="0"/>
+  </panorama>
+  <panorama id="node29">
+    <input width="2000" height="2000" leveltilesize="510" levelbias="0.400" levelingpitch="0" leveltileurl="tiles/node29/cf_%c/l_%l/c_%x/tile_%y.jpg" overlap="1" levelingroll="0" levelbiashidpi="1.000">
+      <level width="2000" height="2000" preload="0" predecode="0"/>
+      <level width="1000" height="1000" preload="0" predecode="0"/>
+      <level width="500" height="500" preload="1" predecode="1"/>
+      <preview color="0x808080" strip="1"/>
+    </input>
+    <view fovmode="2" pannorth="811.951">
+      <start fov="100" projection="4" pan="0" tilt="0"/>
+      <flyin fov="170" projection="9" pan="0" tilt="-90"/>
+      <min pan="0" tilt="-90" fovpixel="2"/>
+      <max fov="140" pan="360" fovstereographic="330" tilt="90" fovfisheye="360" scaletofit="1"/>
+    </view>
+    <userdata nodeid="node29" info="Mega Restaurante" customnodeid="" title="Mega Restaurante" source="Mega Restaurante" description="Mega Restaurante" copyright="Mega Restaurante" latitude="-26.98899705" heading="811.951" tags="OFIII" author="Mega Restaurante" longitude="-48.63400027" datetime="18/05/2025 14:13" comment="Mega Restaurante">
+      <custompropertyvalue value="" variablename="MegaRestaurante"/>
+    </userdata>
+    <hotspots width="180" height="20" wordwrap="1" smoothmovement="0">
+      <label bordercolor="0x000000" width="180" height="20" border="1" borderalpha="1" borderradius="1" textalpha="1" backgroundalpha="1" enabled="1" backgroundcolor="0xffffff" wordwrap="1" textcolor="0x000000" background="1"/>
+      <polystyle bordercolor="0x0000ff" backgroundalpha="0.25098" backgroundcolor="0x0000ff" borderalpha="1" mode="0" handcursor="1"/>
+      <hotspot pan="809.244" url="{node28}" tilt="0" title="Mega Restaurante" description="" id="Point01" distance="3.52436" target="$fwd" skinid="ht_node"/>
+      <hotspot pan="636.98" url="{node30}" tilt="0" title="Mega Restaurante" description="" id="Point02" distance="5.30106" target="$fwd" skinid="ht_node"/>
+    </hotspots>
+    <media/>
+    <transition delay="none" zoomout="0" blendtime="1" type="mesh" zoomspeed="2" zoomoutpause="1" zoomin="7" softedge="0" enabled="1" zoomafteroutfov="40" blendcolor="0x000000" zoomafterinfov="140" zoomfov="40"/>
+    <animation syncanimationwithvideo="0" animsequence="Animation01" clipsrandom="0" useinautorotation="0"/>
+    <control sensitivity="8" speedwheel="1" simulatemass="1" contextprojections="0" hideabout="0" contextvr="1" lockedkeyboard="0" lockedkeyboardzoom="0" dblclickfullscreen="0" zoomcentercursor="1" contextfullscreen="1" rubberband="0" invertwheel="0" invertcontrol="1" lockedwheel="0" lockedmouse="0"/>
+  </panorama>
+  <panorama id="node30">
+    <input width="2000" height="2000" leveltilesize="510" levelbias="0.400" levelingpitch="0" leveltileurl="tiles/node30/cf_%c/l_%l/c_%x/tile_%y.jpg" overlap="1" levelingroll="0" levelbiashidpi="1.000">
+      <level width="2000" height="2000" preload="0" predecode="0"/>
+      <level width="1000" height="1000" preload="0" predecode="0"/>
+      <level width="500" height="500" preload="1" predecode="1"/>
+      <preview color="0x808080" strip="1"/>
+    </input>
+    <view fovmode="2" pannorth="-276.482">
+      <start fov="100" projection="4" pan="0" tilt="0"/>
+      <flyin fov="170" projection="9" pan="0" tilt="-90"/>
+      <min pan="0" tilt="-90" fovpixel="2"/>
+      <max fov="140" pan="360" fovstereographic="330" tilt="90" fovfisheye="360" scaletofit="1"/>
+    </view>
+    <userdata nodeid="node30" info="Mega Restaurante" customnodeid="" title="Mega Restaurante" source="Mega Restaurante" description="Mega Restaurante" copyright="Mega Restaurante" latitude="-26.98904454" heading="-276.482" tags="OFIII" author="Mega Restaurante" longitude="-48.63399558" datetime="18/05/2025 14:13" comment="Mega Restaurante">
+      <custompropertyvalue value="" variablename="MegaRestaurante"/>
+    </userdata>
+    <hotspots width="180" height="20" wordwrap="1" smoothmovement="0">
+      <label bordercolor="0x000000" width="180" height="20" border="1" borderalpha="1" borderradius="1" textalpha="1" backgroundalpha="1" enabled="1" backgroundcolor="0xffffff" wordwrap="1" textcolor="0x000000" background="1"/>
+      <polystyle bordercolor="0x0000ff" backgroundalpha="0.25098" backgroundcolor="0x0000ff" borderalpha="1" mode="0" handcursor="1"/>
+      <hotspot pan="-271.453" url="{node29}" tilt="0" title="Mega Restaurante" description="" id="Point01" distance="5.30106" target="$fwd" skinid="ht_node"/>
+      <hotspot pan="-345.437" url="{node31}" tilt="0" title="Mega Restaurante" description="" id="Point02" distance="3.41856" target="$fwd" skinid="ht_node"/>
+    </hotspots>
+    <media/>
+    <transition delay="none" zoomout="0" blendtime="1" type="mesh" zoomspeed="2" zoomoutpause="1" zoomin="7" softedge="0" enabled="1" zoomafteroutfov="40" blendcolor="0x000000" zoomafterinfov="140" zoomfov="40"/>
+    <animation syncanimationwithvideo="0" animsequence="Animation01" clipsrandom="0" useinautorotation="0"/>
+    <control sensitivity="8" speedwheel="1" simulatemass="1" contextprojections="0" hideabout="0" contextvr="1" lockedkeyboard="0" lockedkeyboardzoom="0" dblclickfullscreen="0" zoomcentercursor="1" contextfullscreen="1" rubberband="0" invertwheel="0" invertcontrol="1" lockedwheel="0" lockedmouse="0"/>
+  </panorama>
+  <panorama id="node31">
+    <input width="2000" height="2000" leveltilesize="510" levelbias="0.400" levelingpitch="0" leveltileurl="tiles/node31/cf_%c/l_%l/c_%x/tile_%y.jpg" overlap="1" levelingroll="0" levelbiashidpi="1.000">
+      <level width="2000" height="2000" preload="0" predecode="0"/>
+      <level width="1000" height="1000" preload="0" predecode="0"/>
+      <level width="500" height="500" preload="1" predecode="1"/>
+      <preview color="0x808080" strip="1"/>
+    </input>
+    <view fovmode="2" pannorth="-182.123">
+      <start fov="100" projection="4" pan="0" tilt="0"/>
+      <flyin fov="170" projection="9" pan="0" tilt="-90"/>
+      <min pan="0" tilt="-90" fovpixel="2"/>
+      <max fov="140" pan="360" fovstereographic="330" tilt="90" fovfisheye="360" scaletofit="1"/>
+    </view>
+    <userdata nodeid="node31" info="Mega Restaurante" customnodeid="" title="Mega Restaurante" source="Mega Restaurante" description="Mega Restaurante" copyright="Mega Restaurante" latitude="-26.98903350" heading="-182.123" tags="OFIII" author="Mega Restaurante" longitude="-48.63396338" datetime="18/05/2025 14:13" comment="Mega Restaurante">
+      <custompropertyvalue value="" variablename="MegaRestaurante"/>
+    </userdata>
+    <hotspots width="180" height="20" wordwrap="1" smoothmovement="0">
+      <label bordercolor="0x000000" width="180" height="20" border="1" borderalpha="1" borderradius="1" textalpha="1" backgroundalpha="1" enabled="1" backgroundcolor="0xffffff" wordwrap="1" textcolor="0x000000" background="1"/>
+      <polystyle bordercolor="0x0000ff" backgroundalpha="0.25098" backgroundcolor="0x0000ff" borderalpha="1" mode="0" handcursor="1"/>
+      <hotspot pan="-71.0783" url="{node30}" tilt="0" title="Mega Restaurante" description="" id="Point01" distance="3.41856" target="$fwd" skinid="ht_node"/>
+      <hotspot pan="-269.122" url="{node32}" tilt="0" title="Mega Restaurante" description="" id="Point02" distance="2.52716" target="$fwd" skinid="ht_node"/>
+      <hotspot pan="-181.03" url="{node27}" tilt="0" title="Mega Restaurante" description="" id="Point03" distance="7.00989" target="$fwd" skinid="ht_node"/>
+    </hotspots>
+    <media/>
+    <transition delay="none" zoomout="0" blendtime="1" type="mesh" zoomspeed="2" zoomoutpause="1" zoomin="7" softedge="0" enabled="1" zoomafteroutfov="40" blendcolor="0x000000" zoomafterinfov="140" zoomfov="40"/>
+    <animation syncanimationwithvideo="0" animsequence="Animation01" clipsrandom="0" useinautorotation="0"/>
+    <control sensitivity="8" speedwheel="1" simulatemass="1" contextprojections="0" hideabout="0" contextvr="1" lockedkeyboard="0" lockedkeyboardzoom="0" dblclickfullscreen="0" zoomcentercursor="1" contextfullscreen="1" rubberband="0" invertwheel="0" invertcontrol="1" lockedwheel="0" lockedmouse="0"/>
+  </panorama>
+  <panorama id="node32">
+    <input width="2000" height="2000" leveltilesize="510" levelbias="0.400" levelingpitch="0" leveltileurl="tiles/node32/cf_%c/l_%l/c_%x/tile_%y.jpg" overlap="1" levelingroll="0" levelbiashidpi="1.000">
+      <level width="2000" height="2000" preload="0" predecode="0"/>
+      <level width="1000" height="1000" preload="0" predecode="0"/>
+      <level width="500" height="500" preload="1" predecode="1"/>
+      <preview color="0x808080" strip="1"/>
+    </input>
+    <view fovmode="2" pannorth="177.942">
+      <start fov="100" projection="4" pan="0" tilt="0"/>
+      <flyin fov="170" projection="9" pan="0" tilt="-90"/>
+      <min pan="0" tilt="-90" fovpixel="2"/>
+      <max fov="140" pan="360" fovstereographic="330" tilt="90" fovfisheye="360" scaletofit="1"/>
+    </view>
+    <userdata nodeid="node32" info="Mega Restaurante" customnodeid="" title="Mega Restaurante" source="Mega Restaurante" description="Mega Restaurante" copyright="Mega Restaurante" latitude="-26.98903231" heading="177.942" tags="OFIII" author="Mega Restaurante" longitude="-48.63393791" datetime="18/05/2025 14:13" comment="Mega Restaurante">
+      <custompropertyvalue value="" variablename="MegaRestaurante"/>
+    </userdata>
+    <hotspots width="180" height="20" wordwrap="1" smoothmovement="0">
+      <label bordercolor="0x000000" width="180" height="20" border="1" borderalpha="1" borderradius="1" textalpha="1" backgroundalpha="1" enabled="1" backgroundcolor="0xffffff" wordwrap="1" textcolor="0x000000" background="1"/>
+      <polystyle bordercolor="0x0000ff" backgroundalpha="0.25098" backgroundcolor="0x0000ff" borderalpha="1" mode="0" handcursor="1"/>
+      <hotspot pan="270.943" url="{node31}" tilt="0" title="Mega Restaurante" description="" id="Point01" distance="2.52716" target="$fwd" skinid="ht_node"/>
+      <hotspot pan="88.2758" url="{node33}" tilt="0" title="Mega Restaurante" description="" id="Point02" distance="2.48113" target="$fwd" skinid="ht_node"/>
+      <hotspot pan="172.297" url="{node26}" tilt="0" title="Mega Restaurante" description="" id="Point03" distance="5.74215" target="$fwd" skinid="ht_node"/>
+    </hotspots>
+    <media/>
+    <transition delay="none" zoomout="0" blendtime="1" type="mesh" zoomspeed="2" zoomoutpause="1" zoomin="7" softedge="0" enabled="1" zoomafteroutfov="40" blendcolor="0x000000" zoomafterinfov="140" zoomfov="40"/>
+    <animation syncanimationwithvideo="0" animsequence="Animation01" clipsrandom="0" useinautorotation="0"/>
+    <control sensitivity="8" speedwheel="1" simulatemass="1" contextprojections="0" hideabout="0" contextvr="1" lockedkeyboard="0" lockedkeyboardzoom="0" dblclickfullscreen="0" zoomcentercursor="1" contextfullscreen="1" rubberband="0" invertwheel="0" invertcontrol="1" lockedwheel="0" lockedmouse="0"/>
+  </panorama>
+  <panorama id="node33">
+    <input width="2000" height="2000" leveltilesize="510" levelbias="0.400" levelingpitch="0" leveltileurl="tiles/node33/cf_%c/l_%l/c_%x/tile_%y.jpg" overlap="1" levelingroll="0" levelbiashidpi="1.000">
+      <level width="2000" height="2000" preload="0" predecode="0"/>
+      <level width="1000" height="1000" preload="0" predecode="0"/>
+      <level width="500" height="500" preload="1" predecode="1"/>
+      <preview color="0x808080" strip="1"/>
+    </input>
+    <view fovmode="2" pannorth="-182.615">
+      <start fov="100" projection="4" pan="0" tilt="0"/>
+      <flyin fov="170" projection="9" pan="0" tilt="-90"/>
+      <min pan="0" tilt="-90" fovpixel="2"/>
+      <max fov="140" pan="360" fovstereographic="330" tilt="90" fovfisheye="360" scaletofit="1"/>
+    </view>
+    <userdata nodeid="node33" info="Mega Restaurante" customnodeid="" title="Mega Restaurante" source="Mega Restaurante" description="Mega Restaurante" copyright="Mega Restaurante" latitude="-26.98903218" heading="-182.615" tags="OFIII" author="Mega Restaurante" longitude="-48.63391287" datetime="18/05/2025 14:13" comment="Mega Restaurante">
+      <custompropertyvalue value="" variablename="MegaRestaurante"/>
+    </userdata>
+    <hotspots width="180" height="20" wordwrap="1" smoothmovement="0">
+      <label bordercolor="0x000000" width="180" height="20" border="1" borderalpha="1" borderradius="1" textalpha="1" backgroundalpha="1" enabled="1" backgroundcolor="0xffffff" wordwrap="1" textcolor="0x000000" background="1"/>
+      <polystyle bordercolor="0x0000ff" backgroundalpha="0.25098" backgroundcolor="0x0000ff" borderalpha="1" mode="0" handcursor="1"/>
+      <hotspot pan="-92.2812" url="{node32}" tilt="0" title="Mega Restaurante" description="" id="Point02" distance="2.48113" target="$fwd" skinid="ht_node"/>
+      <hotspot pan="-269.905" url="{node34}" tilt="0" title="Mega Restaurante" description="" id="Point04" distance="2.16347" target="$fwd" skinid="ht_node"/>
+    </hotspots>
+    <media/>
+    <transition delay="none" zoomout="0" blendtime="1" type="mesh" zoomspeed="2" zoomoutpause="1" zoomin="7" softedge="0" enabled="1" zoomafteroutfov="40" blendcolor="0x000000" zoomafterinfov="140" zoomfov="40"/>
+    <animation syncanimationwithvideo="0" animsequence="Animation01" clipsrandom="0" useinautorotation="0"/>
+    <control sensitivity="8" speedwheel="1" simulatemass="1" contextprojections="0" hideabout="0" contextvr="1" lockedkeyboard="0" lockedkeyboardzoom="0" dblclickfullscreen="0" zoomcentercursor="1" contextfullscreen="1" rubberband="0" invertwheel="0" invertcontrol="1" lockedwheel="0" lockedmouse="0"/>
+  </panorama>
+  <panorama id="node34">
+    <input width="2000" height="2000" leveltilesize="510" levelbias="0.400" levelingpitch="0" leveltileurl="tiles/node34/cf_%c/l_%l/c_%x/tile_%y.jpg" overlap="1" levelingroll="0" levelbiashidpi="1.000">
+      <level width="2000" height="2000" preload="0" predecode="0"/>
+      <level width="1000" height="1000" preload="0" predecode="0"/>
+      <level width="500" height="500" preload="1" predecode="1"/>
+      <preview color="0x808080" strip="1"/>
+    </input>
+    <view fovmode="2" pannorth="-207.382">
+      <start fov="100" projection="4" pan="0" tilt="0"/>
+      <flyin fov="170" projection="9" pan="0" tilt="-90"/>
+      <min pan="0" tilt="-90" fovpixel="2"/>
+      <max fov="140" pan="360" fovstereographic="330" tilt="90" fovfisheye="360" scaletofit="1"/>
+    </view>
+    <userdata nodeid="node34" info="Mega Restaurante" customnodeid="" title="Mega Restaurante" source="Mega Restaurante" description="Mega Restaurante" copyright="Mega Restaurante" latitude="-26.98903126" heading="-207.382" tags="OFIII" author="Mega Restaurante" longitude="-48.63389106" datetime="18/05/2025 14:13" comment="Mega Restaurante">
+      <custompropertyvalue value="" variablename="MegaRestaurante"/>
+    </userdata>
+    <hotspots width="180" height="20" wordwrap="1" smoothmovement="0">
+      <label bordercolor="0x000000" width="180" height="20" border="1" borderalpha="1" borderradius="1" textalpha="1" backgroundalpha="1" enabled="1" backgroundcolor="0xffffff" wordwrap="1" textcolor="0x000000" background="1"/>
+      <polystyle bordercolor="0x0000ff" backgroundalpha="0.25098" backgroundcolor="0x0000ff" borderalpha="1" mode="0" handcursor="1"/>
+      <hotspot pan="-281.834" url="{node35}" tilt="0" title="Mega Restaurante" description="" id="Point01" distance="2.10325" target="$fwd" skinid="ht_node"/>
+      <hotspot pan="-114.672" url="{node33}" tilt="0" title="Mega Restaurante" description="" id="Point03" distance="2.16347" target="$fwd" skinid="ht_node"/>
+      <hotspot pan="-200.866" url="{node25}" tilt="0" title="Mega Restaurante" description="" id="Point02" distance="4.89864" target="$fwd" skinid="ht_node"/>
+    </hotspots>
+    <media/>
+    <transition delay="none" zoomout="0" blendtime="1" type="mesh" zoomspeed="2" zoomoutpause="1" zoomin="7" softedge="0" enabled="1" zoomafteroutfov="40" blendcolor="0x000000" zoomafterinfov="140" zoomfov="40"/>
+    <animation syncanimationwithvideo="0" animsequence="Animation01" clipsrandom="0" useinautorotation="0"/>
+    <control sensitivity="8" speedwheel="1" simulatemass="1" contextprojections="0" hideabout="0" contextvr="1" lockedkeyboard="0" lockedkeyboardzoom="0" dblclickfullscreen="0" zoomcentercursor="1" contextfullscreen="1" rubberband="0" invertwheel="0" invertcontrol="1" lockedwheel="0" lockedmouse="0"/>
+  </panorama>
+  <panorama id="node35">
+    <input width="2000" height="2000" leveltilesize="510" levelbias="0.400" levelingpitch="0" leveltileurl="tiles/node35/cf_%c/l_%l/c_%x/tile_%y.jpg" overlap="1" levelingroll="0" levelbiashidpi="1.000">
+      <level width="2000" height="2000" preload="0" predecode="0"/>
+      <level width="1000" height="1000" preload="0" predecode="0"/>
+      <level width="500" height="500" preload="1" predecode="1"/>
+      <preview color="0x808080" strip="1"/>
+    </input>
+    <view fovmode="2" pannorth="-167.471">
+      <start fov="100" projection="4" pan="0" tilt="0"/>
+      <flyin fov="170" projection="9" pan="0" tilt="-90"/>
+      <min pan="0" tilt="-90" fovpixel="2"/>
+      <max fov="140" pan="360" fovstereographic="330" tilt="90" fovfisheye="360" scaletofit="1"/>
+    </view>
+    <userdata nodeid="node35" info="Mega Restaurante" customnodeid="" title="Mega Restaurante" source="Mega Restaurante" description="Mega Restaurante" copyright="Mega Restaurante" latitude="-26.98902619" heading="-167.471" tags="OFIII" author="Mega Restaurante" longitude="-48.63387061" datetime="18/05/2025 14:13" comment="Mega Restaurante">
+      <custompropertyvalue value="" variablename="MegaRestaurante"/>
+    </userdata>
+    <hotspots width="180" height="20" wordwrap="1" smoothmovement="0">
+      <label bordercolor="0x000000" width="180" height="20" border="1" borderalpha="1" borderradius="1" textalpha="1" backgroundalpha="1" enabled="1" backgroundcolor="0xffffff" wordwrap="1" textcolor="0x000000" background="1"/>
+      <polystyle bordercolor="0x0000ff" backgroundalpha="0.25098" backgroundcolor="0x0000ff" borderalpha="1" mode="0" handcursor="1"/>
+      <hotspot pan="-61.9233" url="{node34}" tilt="0" title="Mega Restaurante" description="" id="Point02" distance="2.10325" target="$fwd" skinid="ht_node"/>
+      <hotspot pan="-333.598" url="{node36}" tilt="0" title="Mega Restaurante" description="" id="Point03" distance="2.77292" target="$fwd" skinid="ht_node"/>
+      <hotspot pan="-185.257" url="{node24}" tilt="0" title="Mega Restaurante" description="" id="Point01" distance="4.37911" target="$fwd" skinid="ht_node"/>
+    </hotspots>
+    <media/>
+    <transition delay="none" zoomout="0" blendtime="1" type="mesh" zoomspeed="2" zoomoutpause="1" zoomin="7" softedge="0" enabled="1" zoomafteroutfov="40" blendcolor="0x000000" zoomafterinfov="140" zoomfov="40"/>
+    <animation syncanimationwithvideo="0" animsequence="Animation01" clipsrandom="0" useinautorotation="0"/>
+    <control sensitivity="8" speedwheel="1" simulatemass="1" contextprojections="0" hideabout="0" contextvr="1" lockedkeyboard="0" lockedkeyboardzoom="0" dblclickfullscreen="0" zoomcentercursor="1" contextfullscreen="1" rubberband="0" invertwheel="0" invertcontrol="1" lockedwheel="0" lockedmouse="0"/>
+  </panorama>
+  <panorama id="node36">
+    <input width="2000" height="2000" leveltilesize="510" levelbias="0.400" levelingpitch="0" leveltileurl="tiles/node36/cf_%c/l_%l/c_%x/tile_%y.jpg" overlap="1" levelingroll="0" levelbiashidpi="1.000">
+      <level width="2000" height="2000" preload="0" predecode="0"/>
+      <level width="1000" height="1000" preload="0" predecode="0"/>
+      <level width="500" height="500" preload="1" predecode="1"/>
+      <preview color="0x808080" strip="1"/>
+    </input>
+    <view fovmode="2" pannorth="-109.08">
+      <start fov="100" projection="4" pan="0" tilt="0"/>
+      <flyin fov="170" projection="9" pan="0" tilt="-90"/>
+      <min pan="0" tilt="-90" fovpixel="2"/>
+      <max fov="140" pan="360" fovstereographic="330" tilt="90" fovfisheye="360" scaletofit="1"/>
+    </view>
+    <userdata nodeid="node36" info="Mega Restaurante" customnodeid="" title="Mega Restaurante" source="Mega Restaurante" description="Mega Restaurante" copyright="Mega Restaurante" latitude="-26.98905040" heading="-109.08" tags="OFIII" author="Mega Restaurante" longitude="-48.63386390" datetime="18/05/2025 14:13" comment="Mega Restaurante">
+      <custompropertyvalue value="" variablename="MegaRestaurante"/>
+    </userdata>
+    <hotspots width="180" height="20" wordwrap="1" smoothmovement="0">
+      <label bordercolor="0x000000" width="180" height="20" border="1" borderalpha="1" borderradius="1" textalpha="1" backgroundalpha="1" enabled="1" backgroundcolor="0xffffff" wordwrap="1" textcolor="0x000000" background="1"/>
+      <polystyle bordercolor="0x0000ff" backgroundalpha="0.25098" backgroundcolor="0x0000ff" borderalpha="1" mode="0" handcursor="1"/>
+      <hotspot pan="-273.865" url="{node37}" tilt="0" title="Mega Restaurante" description="" id="Point02" distance="2.65039" target="$fwd" skinid="ht_node"/>
+      <hotspot pan="-95.2071" url="{node35}" tilt="0" title="Mega Restaurante" description="" id="Point01" distance="2.77292" target="$fwd" skinid="ht_node"/>
+      <hotspot pan="-183.788" url="{node39}" tilt="0" title="Mega Restaurante" description="" id="Point03" distance="5.16485" target="$fwd" skinid="ht_node"/>
+    </hotspots>
+    <media/>
+    <transition delay="none" zoomout="0" blendtime="1" type="mesh" zoomspeed="2" zoomoutpause="1" zoomin="7" softedge="0" enabled="1" zoomafteroutfov="40" blendcolor="0x000000" zoomafterinfov="140" zoomfov="40"/>
+    <animation syncanimationwithvideo="0" animsequence="Animation01" clipsrandom="0" useinautorotation="0"/>
+    <control sensitivity="8" speedwheel="1" simulatemass="1" contextprojections="0" hideabout="0" contextvr="1" lockedkeyboard="0" lockedkeyboardzoom="0" dblclickfullscreen="0" zoomcentercursor="1" contextfullscreen="1" rubberband="0" invertwheel="0" invertcontrol="1" lockedwheel="0" lockedmouse="0"/>
+  </panorama>
+  <panorama id="node37">
+    <input width="2000" height="2000" leveltilesize="510" levelbias="0.400" levelingpitch="0" leveltileurl="tiles/node37/cf_%c/l_%l/c_%x/tile_%y.jpg" overlap="1" levelingroll="0" levelbiashidpi="1.000">
+      <level width="2000" height="2000" preload="0" predecode="0"/>
+      <level width="1000" height="1000" preload="0" predecode="0"/>
+      <level width="500" height="500" preload="1" predecode="1"/>
+      <preview color="0x808080" strip="1"/>
+    </input>
+    <view fovmode="2" pannorth="-197.208">
+      <start fov="100" projection="4" pan="0" tilt="0"/>
+      <flyin fov="170" projection="9" pan="0" tilt="-90"/>
+      <min pan="0" tilt="-90" fovpixel="2"/>
+      <max fov="140" pan="360" fovstereographic="330" tilt="90" fovfisheye="360" scaletofit="1"/>
+    </view>
+    <userdata nodeid="node37" info="Mega Restaurante" customnodeid="" title="Mega Restaurante" source="Mega Restaurante" description="Mega Restaurante" copyright="Mega Restaurante" latitude="-26.98907340" heading="-197.208" tags="OFIII" author="Mega Restaurante" longitude="-48.63385688" datetime="18/05/2025 14:13" comment="Mega Restaurante">
+      <custompropertyvalue value="" variablename="MegaRestaurante"/>
+    </userdata>
+    <hotspots width="180" height="20" wordwrap="1" smoothmovement="0">
+      <label bordercolor="0x000000" width="180" height="20" border="1" borderalpha="1" borderradius="1" textalpha="1" backgroundalpha="1" enabled="1" backgroundcolor="0xffffff" wordwrap="1" textcolor="0x000000" background="1"/>
+      <polystyle bordercolor="0x0000ff" backgroundalpha="0.25098" backgroundcolor="0x0000ff" borderalpha="1" mode="0" handcursor="1"/>
+      <hotspot pan="-181.993" url="{node36}" tilt="0" title="Mega Restaurante" description="" id="Point01" distance="2.65039" target="$fwd" skinid="ht_node"/>
+      <hotspot pan="-89.084" url="{node38}" tilt="0" title="Mega Restaurante" description="" id="Point03" distance="3.52808" target="$fwd" skinid="ht_node"/>
+    </hotspots>
+    <media/>
+    <transition delay="none" zoomout="0" blendtime="1" type="mesh" zoomspeed="2" zoomoutpause="1" zoomin="7" softedge="0" enabled="1" zoomafteroutfov="40" blendcolor="0x000000" zoomafterinfov="140" zoomfov="40"/>
+    <animation syncanimationwithvideo="0" animsequence="Animation01" clipsrandom="0" useinautorotation="0"/>
+    <control sensitivity="8" speedwheel="1" simulatemass="1" contextprojections="0" hideabout="0" contextvr="1" lockedkeyboard="0" lockedkeyboardzoom="0" dblclickfullscreen="0" zoomcentercursor="1" contextfullscreen="1" rubberband="0" invertwheel="0" invertcontrol="1" lockedwheel="0" lockedmouse="0"/>
+  </panorama>
+  <panorama id="node38">
+    <input width="2000" height="2000" leveltilesize="510" levelbias="0.400" levelingpitch="0" leveltileurl="tiles/node38/cf_%c/l_%l/c_%x/tile_%y.jpg" overlap="1" levelingroll="0" levelbiashidpi="1.000">
+      <level width="2000" height="2000" preload="0" predecode="0"/>
+      <level width="1000" height="1000" preload="0" predecode="0"/>
+      <level width="500" height="500" preload="1" predecode="1"/>
+      <preview color="0x808080" strip="1"/>
+    </input>
+    <view fovmode="2" pannorth="-212.325">
+      <start fov="100" projection="4" pan="0" tilt="0"/>
+      <flyin fov="170" projection="9" pan="0" tilt="-90"/>
+      <min pan="0" tilt="-90" fovpixel="2"/>
+      <max fov="140" pan="360" fovstereographic="330" tilt="90" fovfisheye="360" scaletofit="1"/>
+    </view>
+    <userdata nodeid="node38" info="Mega Restaurante" customnodeid="" title="Mega Restaurante" source="Mega Restaurante" description="Mega Restaurante" copyright="Mega Restaurante" latitude="-26.98908327" heading="-212.325" tags="OFIII" author="Mega Restaurante" longitude="-48.63389072" datetime="18/05/2025 14:13" comment="Mega Restaurante">
+      <custompropertyvalue value="" variablename="MegaRestaurante"/>
+    </userdata>
+    <hotspots width="180" height="20" wordwrap="1" smoothmovement="0">
+      <label bordercolor="0x000000" width="180" height="20" border="1" borderalpha="1" borderradius="1" textalpha="1" backgroundalpha="1" enabled="1" backgroundcolor="0xffffff" wordwrap="1" textcolor="0x000000" background="1"/>
+      <polystyle bordercolor="0x0000ff" backgroundalpha="0.25098" backgroundcolor="0x0000ff" borderalpha="1" mode="0" handcursor="1"/>
+      <hotspot pan="-284.201" url="{node37}" tilt="0" title="Mega Restaurante" description="" id="Point01" distance="3.52808" target="$fwd" skinid="ht_node"/>
+    </hotspots>
+    <media/>
+    <transition delay="none" zoomout="0" blendtime="1" type="mesh" zoomspeed="2" zoomoutpause="1" zoomin="7" softedge="0" enabled="1" zoomafteroutfov="40" blendcolor="0x000000" zoomafterinfov="140" zoomfov="40"/>
+    <animation syncanimationwithvideo="0" animsequence="Animation01" clipsrandom="0" useinautorotation="0"/>
+    <control sensitivity="8" speedwheel="1" simulatemass="1" contextprojections="0" hideabout="0" contextvr="1" lockedkeyboard="0" lockedkeyboardzoom="0" dblclickfullscreen="0" zoomcentercursor="1" contextfullscreen="1" rubberband="0" invertwheel="0" invertcontrol="1" lockedwheel="0" lockedmouse="0"/>
+  </panorama>
+  <panorama id="node39">
+    <input width="2000" height="2000" leveltilesize="510" levelbias="0.400" levelingpitch="0" leveltileurl="tiles/node39/cf_%c/l_%l/c_%x/tile_%y.jpg" overlap="1" levelingroll="0" levelbiashidpi="1.000">
+      <level width="2000" height="2000" preload="0" predecode="0"/>
+      <level width="1000" height="1000" preload="0" predecode="0"/>
+      <level width="500" height="500" preload="1" predecode="1"/>
+      <preview color="0x808080" strip="1"/>
+    </input>
+    <view fovmode="2" pannorth="-106.423">
+      <start fov="100" projection="4" pan="0" tilt="0"/>
+      <flyin fov="170" projection="9" pan="0" tilt="-90"/>
+      <min pan="0" tilt="-90" fovpixel="2"/>
+      <max fov="140" pan="360" fovstereographic="330" tilt="90" fovfisheye="360" scaletofit="1"/>
+    </view>
+    <userdata nodeid="node39" info="Mega Restaurante" customnodeid="" title="Mega Restaurante" source="Mega Restaurante" description="Mega Restaurante" copyright="Mega Restaurante" latitude="-26.98903815" heading="-106.423" tags="OFIII" author="Mega Restaurante" longitude="-48.63381362" datetime="18/05/2025 14:13" comment="Mega Restaurante">
+      <custompropertyvalue value="" variablename="MegaRestaurante"/>
+    </userdata>
+    <hotspots width="180" height="20" wordwrap="1" smoothmovement="0">
+      <label bordercolor="0x000000" width="180" height="20" border="1" borderalpha="1" borderradius="1" textalpha="1" backgroundalpha="1" enabled="1" backgroundcolor="0xffffff" wordwrap="1" textcolor="0x000000" background="1"/>
+      <polystyle bordercolor="0x0000ff" backgroundalpha="0.25098" backgroundcolor="0x0000ff" borderalpha="1" mode="0" handcursor="1"/>
+      <hotspot pan="-1.13136" url="{node36}" tilt="0" title="Mega Restaurante" description="" id="Point01" distance="5.16485" target="$fwd" skinid="ht_node"/>
+      <hotspot pan="-184.597" url="{node22}" tilt="0" title="Mega Restaurante" description="" id="Point02" distance="4.15059" target="$fwd" skinid="ht_node"/>
+      <hotspot pan="-95.8322" url="{node40}" tilt="0" title="Mega Restaurante" description="" id="Point03" distance="5.73076" target="$fwd" skinid="ht_node"/>
+    </hotspots>
+    <media/>
+    <transition delay="none" zoomout="0" blendtime="1" type="mesh" zoomspeed="2" zoomoutpause="1" zoomin="7" softedge="0" enabled="1" zoomafteroutfov="40" blendcolor="0x000000" zoomafterinfov="140" zoomfov="40"/>
+    <animation syncanimationwithvideo="0" animsequence="Animation01" clipsrandom="0" useinautorotation="0"/>
+    <control sensitivity="8" speedwheel="1" simulatemass="1" contextprojections="0" hideabout="0" contextvr="1" lockedkeyboard="0" lockedkeyboardzoom="0" dblclickfullscreen="0" zoomcentercursor="1" contextfullscreen="1" rubberband="0" invertwheel="0" invertcontrol="1" lockedwheel="0" lockedmouse="0"/>
+  </panorama>
+  <masternode>
+    <userdata tags="" author="" title="" description="" copyright="" comment=""/>
+    <animationsequences>
+      <sequence title="Animation01"/>
+    </animationsequences>
+  </masternode>
+  <customproperty defaultvalue="" variabletype="0" variablename="MegaRestaurante" propertytype="0"/>
+</tour>
